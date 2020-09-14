@@ -1,0 +1,1 @@
+## Проверка сборки [![Build status](https://ci.appveyor.com/api/projects/status/hm3xq1lt632dfyp5?svg=true)](https://ci.appveyor.com/project/usoltsevjr/postmanecho)
