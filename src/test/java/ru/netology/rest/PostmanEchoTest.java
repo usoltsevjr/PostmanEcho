@@ -19,7 +19,9 @@ public class PostmanEchoTest {
 
                 .then()
                 .statusCode(200)
-                .body("data", equalTo ("Something new"))
+                .body("data", equalTo (""))
+                .body("data", equalTo (""))
+                .body("data", equalTo ("Data test"))
         ;
     }
 }
